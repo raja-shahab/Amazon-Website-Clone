@@ -1,1 +1,3 @@
 # Amazon-Website-Clone
+
+The Amazon website clone project is a replica of the popular e-commerce platform created using HTML and CSS. It mimics the layout, design, and functionality of the Amazon website, allowing users to navigate through product listings, add items to their cart, and proceed to checkout. This project demonstrates proficiency in front-end development skills, including responsive design, styling, and structuring web pages. It serves as a practical exercise in recreating a complex and dynamic website interface, showcasing the ability to create visually appealing and user-friendly web experiences.
